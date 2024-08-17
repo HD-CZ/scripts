@@ -1,0 +1,21 @@
+# Ignore all files and directories at the root level
+#/*
+
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Ignore the directory
+_Archive/
+mapa-zdarma/recaptchaLogger/logs/
+
+# TODO: we need to write corret gitingore for this directory, for now no commits of this folder
+jirka/
+
+# NOT SURE Ignore all files in the directory
+#_Archive/*
+
+# The following lines are commented out examples of how to include specific files or directories within plugins
+# Uncomment to include the specific single file plugin
+# !wp-content/plugins/my-single-file-plugin.php
+# Uncomment to include the specific directory plugin
+# !wp-content/plugins/my-directory-plugin/

@@ -1,0 +1,84 @@
+Warnings: 3
+----------------------------------------------------------------------------------------------------
+2024-07-17 17:18:51 WARNING: Recaptcha nelze ověřit. MZ ale odeslána.
+----------------------------------------------------------------------------------------------------
+{
+    "success": true,
+    "challenge_ts": "2024-07-17T17:18:23Z",
+    "hostname": "humandesign.cz",
+    "score": 0.2,
+    "action": "validate_captcha"
+}
+{
+    "created": "1721236729055",
+    "formType": "PC",
+    "sourceUrl": "\/mapa\/dev\/",
+    "recaptcha": "03AFcWeA6XU3-5QvrGBu-Hx65BkUwj039kYAX8rxpZiYuovbB4bgTMsCB1t0xREktte6N9Xe_Mi7NPsYOddwP84lQH0cUKsLlt4vAi6RWnJchyFvTEBFyNv9tLiORsne4-p04QXYKYgSYVwiXHcJvYg6Z81b8Fo6WLm87bCXXvopQz-BBxaJrM3HXZ8-xay16l6QbbA1CIDwrCS7Yco0Bw0ozF8KM6hWE1vMp1fsr7PKnjr_vU4WY0rruOfwc-Ub_FZao6Z5278ru4ayzhNbEnAaBJVCkvNJl3gevYbQQIf5Wa_ND2r3fQqmsRvsoXrXtcefHJmug4MHuP1uqbRbipiZYKS69lnXjBw0osyeCQFLyhgKvuW3MUF7jjnqo8ojn6f804qFtaqp6GyjTq7QSAkAED2BCnFp7BxLuSXVy3vBb3ig2spDBn6nuxQG6Vbcb56YK-lOjaYmoLL-aXsFjhKh7_eSmvf7PVk6o5QtTQl6jLb2Ir8SbpDdjsWFP4fsdvnRs1NAC8sAjuQBaa8RrvpJtBbiqI7K_zbhDK75pl21ZH_P5FxJC_MESzb3DEJkjg-wznUKLlyyitx8TSoURnF3wJ5De0jwDQfKg99-nxmOf8ji-h3WpAL6Z_KAwOdCRZLq0IlR_RjgGzm2_e9YeAXhJ_lIpIl8GMDLESvRzcmX5ECfihW_Lps5ShSZjErIe5ecw2v3_5KCl9mlQzrrqIbFs4IsjZz1tlYllzIzuBKNR09x32frdwGSjIogsK2FZV6tJgzZhHA0KfiGDl_wl39b16UnrKYUHwVM6E3yYZJoBzhqX94QcvWnm9AYmUj3IPTd904lUiWWs_99nv-c7NHQR79h85IeZL-g",
+    "name": "Pjotr",
+    "email": "beek.spk@gmail.com",
+    "country": "Czech Republic\u010cesk\u00e1 republika",
+    "city": "default",
+    "day": "12",
+    "month": "03",
+    "year": "1993",
+    "hour": "09",
+    "minute": "24",
+    "phpScriptUrl": "\/scripts\/mapa-zdarma-form-handler-DEV.php",
+    "refererUrl": "https:\/\/humandesign.cz\/mapa\/dev\/"
+}
+
+----------------------------------------------------------------------------------------------------
+2024-07-17 17:20:04 WARNING: Recaptcha nelze ověřit. MZ ale odeslána.
+----------------------------------------------------------------------------------------------------
+{
+    "success": true,
+    "challenge_ts": "2024-07-17T17:19:57Z",
+    "hostname": "humandesign.cz",
+    "score": 0.2,
+    "action": "validate_captcha"
+}
+{
+    "created": "1721236802078",
+    "sourceUrl": "\/mapa\/dev\/",
+    "formType": "MOB",
+    "recaptcha": "03AFcWeA4RO_8Or24_jIhEALrMFoesUcHPChJRTQ6rDEnezMm0I7qJEi5rJDQp__JJ_gxfhy2gfee4ebaXYMBcdRW-tITePe8LMNRSUdUDlSf27TqJk2RZwiDTxP6BqcNin5cVs1QvlAPq461wGvE7wvHb6YbL-uaUBQZhzdBTtFrjRK_Iur21qW5glgQyrFvn99F8ZuS6T435m1Ur7LSS5Lql09GEFk6AEG_hX4NBLSt8kvQ3B6WDNiZ6OWr4VdLhDCWQVJzNX3BRFrXbid6rRRvlK3WbJaf-4vEvtkUABTOvG3rdOjbyQyWy2VizvQzBHIteyHKYvFVoBkp2OJU8C-UVXDFGVJ4Ho-pQDo7jqWjTE0sEn7pMb1zPscQ07emCQsqgB5ETedbCCqaSFm_DvPX_FTUGKLpUo29axwjMFHpwxLfeScpxqihwNg_iEyQfayN1z__DllwVJQwKTmK0_frDGfV5DcvcRQu0jq1Iv5I4bJvFiuzx07OurVtMudc6Ijo4yt3XvmYVID4-_H3BH_9jiLOLX2Tn4IqvZBWZYOTCYiJ9YMdPEo05IG8KJq8T9uycTukQX0E5VWyqRy2iti5aW4Q2VgpZ2k9ROYpHMC5d9qriIPbjRinAO33gPfrjsT-VnxW0hbhPWJVqWS7bRN1ugkZUacqvIqvkWRSSbEe1BAbiTiP-xZw",
+    "name": "Petr test",
+    "email": "beek.spk@gmail.com",
+    "day": "10",
+    "month": "4",
+    "year": "1942",
+    "hour": "02",
+    "minute": "30",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "phpScriptUrl": "\/scripts\/mapa-zdarma-form-handler-DEV.php",
+    "refererUrl": "https:\/\/humandesign.cz\/mapa\/dev\/"
+}
+
+----------------------------------------------------------------------------------------------------
+2024-07-17 17:30:26 WARNING: Recaptcha nelze ověřit. MZ ale odeslána.
+----------------------------------------------------------------------------------------------------
+{
+    "success": true,
+    "challenge_ts": "2024-07-17T17:30:15Z",
+    "hostname": "humandesign.cz",
+    "score": 0.2,
+    "action": "validate_captcha"
+}
+{
+    "created": "1721237424065",
+    "sourceUrl": "\/mapa\/dev\/",
+    "formType": "MOB",
+    "recaptcha": "03AFcWeA6JQbvtbZeajIFanuOr6KWPHyd2KhWSi_x68yojOa7t90pogy1rfXIWTC1j7GVsG3tdgecVUFRtbQy05lApEmwVsYb8JNnHq78Qob_q3HouXqbDsfBEyOnwQtKUjzZNQ7zB1qlwu8Exf5UUrfcDym1WvkQO32aLFkOfhSZYev6M4H2_fvyEu-pVi5YgiPXGK9Xp1_UPsmxUQOWBozIU14EBJ_YfLUjdRIjhaA7dXumFoz-N-_4fkZWMpLnR195vZlSsE9m9QEjbguzpxdG_18pBWSq7OsueronOsQthyauiiQ8UzeTi46H0Q8qEB4sL3H_mPISSDgayRdLASkAPRobPYJvnDlWg-0lddOiELcHQgWrAg-gz1AoVSmL85_ZzW5BqtqL8dNP4AsoOwoiemHDuYT8miEASNInpRTFt040JEg5IEYLsEgUt2uCXmh4Sr7wqiukQVqUkBffYXxXLr7psp9uFIiI7fmmfNFjROrVO6ed0kmwe_eL-BY_WQYOajRGQ1gQ3tkL8VW8i0_gnJaDf6OBbVkRNC4g9qMnRkZ0zEpvH7t7V1WQSO0D1K0HRfuf0zaSB7buPSFwUGt_GD6-7rv2bVjyXyart70loTDlJ-9p9mme91YzlqmEDTNW9KraPOnPvbg6jMDImwmYK6XvvkJ8MegqSB9VcB6tQFjhNrngaYCWSkXmnALzRTs9E7CQ07Vab",
+    "name": "Petr test",
+    "email": "beek.spk@gmail.com",
+    "day": "30",
+    "month": "2",
+    "year": "2015",
+    "hour": "13",
+    "minute": "33",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "phpScriptUrl": "\/scripts\/mapa-zdarma-form-handler-DEV.php",
+    "refererUrl": "https:\/\/humandesign.cz\/mapa\/dev\/"
+}
